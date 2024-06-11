@@ -2,11 +2,11 @@
 
 <p>This NatureDSP Library for ConnX 220 DSP contains various optimized general purpose signal processing routines.</p>
 <h1> Version: v3.3.0 </h1>
-<p>This is an early access (v3.3.0) of NatureDSP library for ConnX 220/230 DSP.
+<p>This is an early access (v3.3.0) of NatureDSP library for ConnX 220 DSP.
 This version of library has been tested with RJ-2024.3 Xtensa tools 
-and has the same APIs with its predecessor, ConnX B10/B20.
+and has the same APIs with its predecessor, ConnX B10.
 
-This release contains following changes when compared to the previous release of ConnX B10/B20 library v3.2.0:</p>
+This release contains following changes when compared to the previous release of ConnX B10 library v3.2.0:</p>
  <h3> Changes:</h3>
        <p>
        <ol>
